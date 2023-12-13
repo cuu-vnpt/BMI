@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/BMI/bin/Debug/net7.0/BMI
+/Users/macos/Desktop/Operator/BMI/bin/Debug/net7.0/BMI.deps.json
+/Users/macos/Desktop/Operator/BMI/bin/Debug/net7.0/BMI.runtimeconfig.json
+/Users/macos/Desktop/Operator/BMI/bin/Debug/net7.0/BMI.dll
+/Users/macos/Desktop/Operator/BMI/bin/Debug/net7.0/BMI.pdb
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.dll
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/refint/BMI.dll
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.pdb
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/BMI.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/BMI/obj/Debug/net7.0/ref/BMI.dll
